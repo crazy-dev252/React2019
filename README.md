@@ -43,7 +43,3 @@ When you open https://dev.bct.trade/ in your browser - it will notify you, that 
 - Add tests to `src/__tests__/integration`
 - Launch the app with "coverage" flag `yarn start:coverage`
 - Execute tests `yarn test:integration`
-
-## Contributing
-
-https://gitlab.com/cryptoems/blockchain-terminal-ui/wikis/Branching-Flow
